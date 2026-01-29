@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+tensorflow
+scikit-learn==1.6.1
+joblib
+pandas
+numpy
+opencv-python-headless
+python-multipart
