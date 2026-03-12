@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-sklearn
+scikit-learn
 tensorflow==2.13.0
 opencv-python-headless
 numpy
